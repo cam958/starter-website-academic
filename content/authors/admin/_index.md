@@ -1,39 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Cameron Martel
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Massachusetts Institute of Technology (Sloan School)
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include misinformation, political behavior, and computational social science.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Misinformation
+- Political Behavior
+- Computational Social Science
+- Social Media Usage
+- Cognitive Psychology
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BS in Cognitive Science
+    institution: Yale University
+    year: 2020
+  - course: Certificate in Data Science
+    institution: Yale University
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,8 +69,12 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a second year PhD student at MIT Sloan School of Management. I am interested in the cognitive processes underlying the belief and spread of misinformation, and my research examines the efficacy of different interventions in quelling dissemination of false information. My research also investigates political psychology and behavior on social media platforms. I use a variety of methodological approaches from cognitive and social psychology, behavioral economics, and computational social science. My work is supported by the National Science Foundation Graduate Research Fellowship.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+One day, I aspire to open up a small waterfront café in a college town, named 'Pier ReView.' 😊
+
+On thie website, you may find my education history, CV, and summaries of my published work. Please reach out if you want to chat!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} {{% staticref "Martel_CV_Nov2021.pdf" %}}Download my CV{{% /staticref %}}
